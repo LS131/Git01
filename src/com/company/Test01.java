@@ -15,6 +15,8 @@ public class Test01 {
         System.out.println("Test01");
 
         System.out.println("你是个什么鬼");
+
+        System.out.println("水鬼");
     }
 
 }

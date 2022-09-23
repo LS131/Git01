@@ -10,9 +10,6 @@ public class Main {
         System.out.println("我是你爸爸");
         System.out.println("我是uat分支");
         System.out.println("我是你爸爸");
-	    
-	    sfdsfsfd
-        System.out.println("我是uat分支");
-	sdfdsfsfsfsf
+        System.out.println("我是你爸爸");
     }
 }
